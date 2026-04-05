@@ -2,3 +2,4 @@ recommender
 archive.zip
 .ipynb*
 *.csv
+recommenderenv/
